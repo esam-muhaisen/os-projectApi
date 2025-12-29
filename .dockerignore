@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+
+# Git files
+.git/
+.gitignore
+
+# Editor settings (VS Code)
+.vscode/
+
+# Project Documentation
+docs/
+README.md
