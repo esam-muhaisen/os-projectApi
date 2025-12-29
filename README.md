@@ -1,4 +1,4 @@
-1-title: OS-Lab-Management-API
+1-title: OS-Lab-project-API
 
 2-Tech stack: 
     - **Runtime:** Node.js
